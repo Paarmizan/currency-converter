@@ -1,0 +1,11 @@
+C:\Users\k\source\repos\currency converter\currency converter\bin\Debug\currency converter.exe.config
+C:\Users\k\source\repos\currency converter\currency converter\bin\Debug\currency converter.exe
+C:\Users\k\source\repos\currency converter\currency converter\bin\Debug\currency converter.pdb
+C:\Users\k\source\repos\currency converter\currency converter\obj\Debug\currency converter.csproj.AssemblyReference.cache
+C:\Users\k\source\repos\currency converter\currency converter\obj\Debug\currency converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\k\source\repos\currency converter\currency converter\obj\Debug\currency_converter.Form1.resources
+C:\Users\k\source\repos\currency converter\currency converter\obj\Debug\currency_converter.Properties.Resources.resources
+C:\Users\k\source\repos\currency converter\currency converter\obj\Debug\currency converter.csproj.GenerateResource.cache
+C:\Users\k\source\repos\currency converter\currency converter\obj\Debug\currency converter.csproj.CoreCompileInputs.cache
+C:\Users\k\source\repos\currency converter\currency converter\obj\Debug\currency converter.exe
+C:\Users\k\source\repos\currency converter\currency converter\obj\Debug\currency converter.pdb
