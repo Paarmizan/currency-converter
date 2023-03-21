@@ -55,15 +55,15 @@ namespace currency_converter
             switch (currency)
             {
                 case "USD": return 1.0;
-                case "EUR": return 0.85;
-                case "GBP": return 0.72;
-                case "JPY": return 110.0;
-                case "AUD": return 1.3;
-                case "CAD": return 1.25;
-                case "CHF": return 0.92;
-                case "CNY": return 6.5;
-                case "NZD": return 1.4;
-                case "SEK": return 8.5;
+                case "EUR": return 1.07;
+                case "GBP": return 1.22;
+                case "JPY": return 0.007567;
+                case "AUD": return 0.67025;
+                case "CAD": return 0.72952;
+                case "CHF": return 1.08;
+                case "CNY": return 0.14512;
+                case "NZD": return 0.62713;
+                case "SEK": return 0.095024;
                 default : return 1.0;
             }
         }
@@ -73,7 +73,7 @@ namespace currency_converter
             double rateFrom = GetExchangeRate(currencyFrom);
             double rateTo = GetExchangeRate(currencyTo);
 
-            return amount * rateFrom / rateTo;
+            return (amount * rateFrom / rateTo);
         }
     }
 }
